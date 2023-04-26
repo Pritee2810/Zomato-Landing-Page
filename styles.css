@@ -155,7 +155,6 @@
 
 .we__offer_card{
     border-radius: 10px;
-    /* background-color: aqua; */
     overflow: hidden;
     border: 1px solid #e0e0e0;    /* overflow => image should not go out of card*/
     transition: all 1s ease;
